@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tornament2007
 - 👀 I’m interested in Everything
-- 🌱 I’m currently learning Unity, Python, JS, HTTP (GET/POST), Linux,  PICO, Home server on SBC, ...
-- 💞️ I’m looking to collaborate on ... getting some free time
+- `🌱 I’m currently working on too much things.. (help..)
+- - 💞️ I’m looking to collaborate on ... getting some free time
 - 📫 How to reach me? | [Instagram](https://www.instagram.com/tremendous_thing/) |
 
 <!---
